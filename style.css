@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  background-color: rgb(0, 77, 144);
+}
+
+#msg {
+  background-color: white;
+  /* margin-left: 650px; */
+  /* height: 280px; */
+  text-align: left;
+  margin: auto;
+  width: 50%;
+  border: 3px solid white;
+  padding: 10px;
+  height: 50%;
+}
+
+button {
+  margin: 20px;
+  padding: 5px 30px;
+  background-color: rgb(67, 67, 167);
+  color: white;
+  font-weight: 700;
+  border: 3px solid white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: blue;
+}
+
+/* UNCOMMENT IF USING "main.js" file */
+/* #msg.collapse {
+  background-color: white;
+  height: 50%;
+} */
